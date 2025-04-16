@@ -8,13 +8,13 @@
 
 ## 🛠️ Tecnologias
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0v&layout=compact&locale=pt-br)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0v&layout=compact&theme=chartreuse-dark&locale=pt-br)
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpedr0v&show_icons=true&theme=default&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpedr0v&show_icons=true&theme=chartreuse-dark&locale=pt-br)
 
 ---
 
