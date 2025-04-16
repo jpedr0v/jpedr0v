@@ -19,6 +19,6 @@
 ---
 
 > _"Porque onde está o teu tesouro, aí está também o teu coração."_  
-> — Mateus 6:21
+> — Mateus 6, 21.
 
 </div>
