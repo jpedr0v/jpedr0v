@@ -1,6 +1,8 @@
+<div align="center">
+
 # 👨‍💻 Sobre Mim
 
-Sou um **estudante autodidata**, em busca de me especializar em **desenvolvimento Full Stack**.
+**Estudante autodidata**, em busca de me especializar em **desenvolvimento Full Stack**.
 
 ---
 
@@ -18,3 +20,5 @@ Sou um **estudante autodidata**, em busca de me especializar em **desenvolviment
 
 > _"Porque onde está o teu tesouro, aí está também o teu coração."_  
 > — Mateus 6:21
+
+</div>
