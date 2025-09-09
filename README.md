@@ -2,7 +2,7 @@
 
 # 👨‍💻 Sobre Mim
 
-**Estudante** em busca de me especializar em **desenvolvimento Full Stack**.
+**Estudante**.
 
 ---
 
