@@ -10,7 +10,6 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0v&layout=compact&theme=chartreuse-dark&locale=pt-br)
 
-![Stats](./jpedr0v/stats.svg)
 ---
 
 ## 📈 Estatísticas do GitHub
